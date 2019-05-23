@@ -1,0 +1,32 @@
+{
+  "name": "all-the-news-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHurdSr/All-the-news-MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHurdSr/All-the-news-MongoDB/issues"
+  },
+  "homepage": "https://github.com/KHurdSr/All-the-news-MongoDB#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body": "^5.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "exphbs": "^1.2.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.1.0",
+    "method": "^2.0.0",
+    "mongoose": "^5.5.9",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0",
+    "schema": "^0.2.1"
+  }
+}
